@@ -1,4 +1,4 @@
-eimport processing.serial.*;
+import processing.serial.*;
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 import cc.arduino.*;

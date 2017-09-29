@@ -1,5 +1,5 @@
 class BeatListener implements AudioListener
-{
+{ 
   private BeatDetect beat;
   private AudioPlayer source;
   
